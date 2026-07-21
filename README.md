@@ -1,78 +1,120 @@
-<h1 align="center">Hi 👋, I'm Davi Rios</h1>
+<h1 align="center">Davi Rios</h1>
 
-<h3 align="center">
-Software Engineer focused on building scalable, maintainable and user-centered applications.
-</h3>
+<p align="center">
+  Backend Software Engineer
+</p>
 
----
+<p align="center">
+  Building scalable APIs • Clean Architecture • Cloud Solutions
+</p>
 
-## 🚀 About me
+<p align="center">
+  <a href="https://www.linkedin.com/in/davi-rios-779796180">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-I'm a software developer from Brazil with a strong focus on backend development and software architecture.
-
-I enjoy turning complex problems into simple, reliable solutions. I value clean code, good practices and systems that are easy to evolve over time.
-
-Currently, I'm expanding my skills towards fullstack development while strengthening my backend foundation.
-
----
-
-## 🧠 What I’m working on
-
-- Improving my expertise in **software architecture and scalable systems**
-- Deepening my knowledge in **frontend development**
-- Building projects that combine **performance, usability and clean design**
+  <a href="mailto:soirivad@outlook.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Collaboration
+## About
 
-I'm open to collaborate on:
+Software Engineer from Brazil with **5 years of experience**, including **4 years developing embedded systems** and **1 year building backend applications**.
 
-- Backend systems and APIs
-- Fullstack applications
-- Real-world projects that challenge architecture and problem-solving
+Currently focused on developing scalable backend solutions using **Java, Spring Boot, Node.js and TypeScript**, applying modern software engineering practices, cloud technologies and clean architecture.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, Java, C  
-- **Frontend:** React, HTML, CSS  
-- **Backend:** Node.js  
-- **Databases:** PostgreSQL, MongoDB  
-- **Tools & DevOps:** Git, GitLab, Docker, AWS
- <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30"/></p>
-  
----
+### Languages
 
-## 📫 Contact
+<p>
+<img src="https://skillicons.dev/icons?i=java,ts,js"/>
+</p>
 
-- Email: soirivad@outlook.com (Recommended)
-- LinkedIn: https://www.linkedin.com/in/davi-rios-779796180  
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,spring"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+</p>
+
+Terraform • GitHub Actions • Jenkins
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
+</p>
 
 ---
 
-## ⚡ Beyond code
+## Professional Experience
 
-Outside of coding, I enjoy:
+### Ilegra
 
-- 🎮 Online games and RPGs  
-- 🎬 Movies and anime  
-- 🧩 Exploring new ideas and creative projects  
+Backend Engineer working with:
+
+- Java
+- Spring Boot
+- REST APIs
+- Software Architecture
+- Code Review
+- Process Automation
+
+### John Deere Project
+
+Backend development using:
+
+- Node.js
+- TypeScript
+- NestJS
+- AWS
+- Docker
+- Terraform
+- CI/CD
+
+### FITec
+
+Firmware Engineer developing embedded solutions for:
+
+- Telecommunications
+- Industrial Automation
+- Energy
+- Agribusiness
+- Healthcare
 
 ---
+
+## Currently Learning
+
+- Distributed Systems
+- Clean Architecture
+- Software Architecture
+- Domain Driven Design
+
+---
+
+## Certifications
+
+- AWS Cloud Practitioner
+- Terraform for AWS
+- Spring Boot + ReactJS
+- Responsive Web Design
+
+---
+
+<p align="center">
+
+Building software that is easy to maintain, easy to scale and enjoyable to work on.
+
+</p>
