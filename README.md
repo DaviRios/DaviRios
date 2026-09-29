@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/davi-rios-779796180">
+  <a href="[https://www.linkedin.com/in/davi-rios-779796180](https://www.linkedin.com/in/davi-rios-soir-ivad/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
